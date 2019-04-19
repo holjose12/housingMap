@@ -1,6 +1,6 @@
-var json_PropertiesLandBankIsInterestedIn_2 = {
+var json_propsLandBankIeInterestedIn_3 = {
 "type": "FeatureCollection",
-"name": "PropertiesLandBankIsInterestedIn_2",
+"name": "propsLandBankIeInterestedIn_3",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Address": "75 Thorman Ave", "City": "Hicksville", "State": "NY", "Country": "United States of America", "Latitude": 40.771647, "Longitude": -73.523902 }, "geometry": { "type": "Point", "coordinates": [ -73.523902, 40.771647 ] } },
